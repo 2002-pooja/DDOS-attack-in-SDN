@@ -41,7 +41,4 @@ Steps to reproduce along with the packages needed can be found [here](https://gi
 
 Results and conclusions along with output are included in [report](https://github.com/aswanthpp/Analysis-of-DDoS-Attacks-in-SDN-Environments/tree/master/reports) 
 
-### Team : 
-Aswanth P P (15CO112) <br>
-Mohammed Ameen (15CO131) <br>
-Joe Antony (15CO220) <br>
+
